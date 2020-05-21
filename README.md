@@ -3,7 +3,7 @@ Vault is an open-source tool used for securely storing and managing secrets.
 
 What is a secret? 
 
-Secrets,are securely-sensitive or personally identifiable info like database credentials, SSH keys, usernames and passwords, AWS IAM credentials, API tokens, Social Security Numbers, credit card numbers, just to name a few.
+Secrets are securely-sensitive or personally identifiable info like database credentials, SSH keys, usernames and passwords, AWS IAM credentials, API tokens, Social Security Numbers, credit card numbers, just to name a few.
 
 ### Installation
 
