@@ -28,6 +28,10 @@ docker-compose up -d
 
 ### Initialize the Vault Cluster:
 
+```
+docker exec -it vault /bin/sh 
+```
+
 ###### Initialize new vault cluster with 6 key shares:
 
 ```
@@ -92,5 +96,6 @@ Using the cli your auth token will be saved locally at ~/.vault-token.
 
 OR 
 export VAULT_TOKEN="s.tdlEqsfzGbePVlke5hTpr9Um"
+
 Note: You would have to provide the unseal keys and root token on the web UI.
 ```
